@@ -1,0 +1,1 @@
+# hiddenDirCheck.py
